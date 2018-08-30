@@ -1,0 +1,12 @@
+{
+  "name": "l3x-ip",
+  "version": "0.0.1",
+  "description": "Get IP address",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lencx/l3x-ip.git"
+  },
+  "author": "lencx <cxin1314@gmail.com>",
+  "license": "MIT"
+}
